@@ -41,14 +41,15 @@
 
 ---
 
-<div align="center">
+<<div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=brianpenrod&show_icons=true&theme=dark&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpenrod&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages" />
-  <br>
-  <br>
+  
+  ### 📬 CONNECT
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Executive-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brianpenrod)
   [![Email](https://img.shields.io/badge/Email-drbrianpenrod@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drbrianpenrod@gmail.com)
 
+  <br>
+  <br>
+  <p><i>"Uncertainty is not the enemy. It is the raw material of Alpha."</i></p>
 </div>
