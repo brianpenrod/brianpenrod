@@ -43,12 +43,12 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=brianpenrod&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpenrod&layout=compact&theme=dark&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brianpenrod&show_icons=true&theme=dark&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpenrod&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages" />
   <br>
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Executive-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brianpenrod)
-  [![Email](https://img.shields.io/badge/Email-bpenrod88@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpenrod88@yahoo.com)
+  [![Email](https://img.shields.io/badge/Email-drbrianpenrod@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drbrianpenrod@gmail.com)
 
 </div>
