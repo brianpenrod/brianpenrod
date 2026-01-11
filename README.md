@@ -1,11 +1,3 @@
-## Hi there 👋
-
-<!--
-**brianpenrod/brianpenrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Dr.%20Brian%20Penrod,%20DBA&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Director%20of%20Quantitative%20Strategy%20%7C%20Financial%20Engineering%20%7C%20Ret.%20CSM&descAlignY=58&descAlign=48" width="100%"/>
-</div>
-
 ### 🎯 MISSION: STRATEGIC ALPHA & RISK AUTOMATION
 > "I bridge the gap between **Operational Leadership** and **Quantitative Finance**. Leveraging 20+ years of Special Operations risk management, I build automated Python systems that reduce uncertainty, validate financial models, and capture market inefficiencies."
 
