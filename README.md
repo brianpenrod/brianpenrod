@@ -20,7 +20,7 @@
 
 ### 🚀 KEY PRODUCTIONS (LIVE REPOS)
 
-**1. 🏦 [ALGORITHMIC MARKET NEUTRAL STRATEGY (v2.2)](https://github.com/brianpenrod/market-neutral-strategy)**
+**1. 🏦 [ALGORITHMIC MARKET NEUTRAL STRATEGY (KINETIC ZERO v2.3)](https://github.com/brianpenrod/market-neutral-strategy)**
 > *Status: PRODUCTION (Numerai Tournament)*
 > * **Objective:** Generate rank-ordered equity predictions for a global hedge fund tournament.
 > * **Architecture:** "Twin Engine" Ensemble utilizing **LightGBM** and **XGBoost** on Google Colab Pro+ (A100 GPU).
