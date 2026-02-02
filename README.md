@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Brian%20Penrod,%20DBA&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Strategic%20FP%26A%20%7C%20Finance%20Transformation%20%7C%20Ret.%20CSM&descAlignY=58&descAlign=48" width="100%"/>
 </div>
 
@@ -29,7 +29,8 @@
 **2. ⚙️ [FP&A FINANCIAL ENGINEERING PORTFOLIO](https://github.com/brianpenrod/fpa-financial-engineering)**
 > *Status: LOGIC ENGINES*
 > * **Objective:** Handling high-dimensionality planning that breaks Excel.
-> * **Modules:** >   * **Project Alpha:** Stochastic Risk Simulator (Monte Carlo) for P&L volatility.
+> * **Modules:**
+>   * **Project Alpha:** Stochastic Risk Simulator (Monte Carlo) for P&L volatility.
 >   * **Project Bravo:** Headcount War Room (Fully loaded costs, FICA caps, RIF/Freeze toggles).
 >   * **Project Charlie:** Driver-Based Rolling Forecast (Separating Logic from Assumptions).
 
