@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Brian%20Penrod,%20DBA&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Strategic%20FP%26A%20%7C%20Finance%20Transformation%20%7C%20Ret.%20CSM&descAlignY=58&descAlign=48" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Brian%20Penrod,%20DBA&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Strategic%20Finance%20%7C%20Finance%20Transformation%20%7C%20Ret.%20CSM&descAlignY=58&descAlign=48" width="100%"/>
 </div>
 
 ### 🎯 MISSION: FINANCIAL ENGINEERING FOR THE CFO
 > "I bridge the gap between **Operational Strategy** and **Financial Engineering**. Leveraging 29 years of Special Operations leadership, I build automated FP&A systems (Python/SQL) that replace static spreadsheets with driver-based forecasts, stochastic risk models, and defensible decision options."
+
+---
 
 ---
 
