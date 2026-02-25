@@ -49,6 +49,7 @@ If you’re reviewing me for **Sr Business Manager / Strategy & Analytics** role
 
 ### 1) 📈 Concierge Economics Case Study (NEW)
 https://github.com/brianpenrod/concierge-economics-case-study
+
 **Purpose:** Demonstrates how I approach economics for a service business:  
 - Margin drivers + unit economics
 - Scenario projections (base/upside/downside)
