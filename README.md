@@ -14,7 +14,7 @@ I’m a DBA (Finance), retired Special Operations Command Sergeant Major, and bu
 If you’re reviewing me for **Sr Business Manager / Strategy & Analytics** roles, these are the fastest proof points:
 
 1) **Concierge Economics Case Study (NEW)** — unit economics + margin bridge + scenarios + monitoring plan  
-   *(Repo: `concierge-economics-case-study` — synthetic data, shareable outputs, exec memo)*
+   https://github.com/brianpenrod/concierge-economics-case-study
 
 2) **Finance Operator Toolkit** — variance bridges + exec memos + flash reports  
    https://github.com/brianpenrod/finance-operator-toolkit
@@ -48,7 +48,7 @@ If you’re reviewing me for **Sr Business Manager / Strategy & Analytics** role
 ## 🚀 FEATURED WORK (PORTFOLIO)
 
 ### 1) 📈 Concierge Economics Case Study (NEW)
-**Repo:** `concierge-economics-case-study`  
+https://github.com/brianpenrod/concierge-economics-case-study
 **Purpose:** Demonstrates how I approach economics for a service business:  
 - Margin drivers + unit economics
 - Scenario projections (base/upside/downside)
